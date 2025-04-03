@@ -1,0 +1,20 @@
+{
+  "name": "codespace-2025",
+  "version": "1.0.0",
+  "description": "playgroud-codespace",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthickcob/codespace-2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthickcob/codespace-2025/issues"
+  },
+  "homepage": "https://github.com/karthickcob/codespace-2025#readme"
+}
