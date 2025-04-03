@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/karthickcob/codespace-2025/issues"
   },
-  "homepage": "https://github.com/karthickcob/codespace-2025#readme"
+  "homepage": "https://github.com/karthickcob/codespace-2025#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.13.1"
+  }
 }
